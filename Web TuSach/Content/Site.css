@@ -1,0 +1,275 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700&display=swap');
+
+:root {
+    --black: #1b1717;
+    --primary: #ce1212;
+    --dark-primary: #810000;
+    --light: #eeebdd;
+}
+
+*, html.body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    margin-top: 2rem;
+    color: red;
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    margin-left: 1rem;
+}
+
+
+.container {
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.btn {
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: var(--primary);
+    color: var(--light);
+    padding: 0.5rem;
+    border:none;
+}
+.btn:hover{
+    background-color:darkorange;
+}
+
+.row {
+    display: flex;
+    flex-wrap:wrap;
+}
+.col {
+    width: 150px;
+    height: 330px;
+}
+
+.left-x {
+    justify-content: flex-start;
+}
+
+.right-x {
+    justify-content: flex-end;
+}
+
+.center-x {
+    justify-content: center;
+}
+
+.bettwen-x {
+    justify-content: space-between;
+}
+
+.left-y {
+    align-items: flex-start;
+}
+
+.right-y {
+    align-items: flex-end;
+}
+
+.center-y {
+    align-items: center;
+}
+
+
+.narbar {
+    position: relative;
+    margin-top: 1.5rem;
+    background-color: var(--light);
+    padding: 1rem;
+}
+.narbar a:hover{
+    color:blueviolet;
+}
+
+.dropdown-item {
+    display: none;
+    margin-top: 0.5rem;
+    position: absolute;
+}
+
+
+.dropdown-item li {
+    background-color: yellowgreen;
+    padding: 0.5rem;
+}
+
+.truyen {
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 1rem 1rem;
+}
+
+    .truyen img {
+        width: 100%;
+    }
+
+    .truyen p:hover {
+        color: blue;
+    }
+
+    .truyen p {
+        margin: 10px;
+    }
+
+.footer {
+    background-color: rgb(135, 135, 135);
+    height: 250px;
+    margin-top: 10rem;
+}
+
+.contact {
+    padding: 5rem 10rem;
+}
+/*---------upload---------*/
+
+
+.left-side {
+    margin-right: 2rem;
+}
+
+    .left-side div {
+        margin-top: 1rem;
+        height: 2rem;
+    }
+
+.right-side {
+    margin-right: 2rem;
+    flex: 1;
+}
+
+    .right-side div {
+        height: 2rem;
+        margin-top: 1rem;
+    }
+
+        .right-side div input {
+            width: 200px;
+        }
+
+        .right-side div select {
+            width: 200px;
+        }
+
+        .right-side div textarea {
+            width: 100%;
+            height: 200px;
+        }
+
+
+  /**-------- đăng kí đăng nhập ---------*/
+.box_login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 40rem;
+}
+
+.form-login header {
+    background-color: darkcyan;
+    width: 100%;
+    height: 5rem;
+    color: white;
+    text-align: end;
+    font-size: 3rem;
+    padding-top: 5px;
+    padding-bottom: 0;
+}
+
+.form-login {
+    border: 1px solid gray;
+    width: 40rem;
+    height: 20rem;
+    display: flex;
+    justify-content: flex-start;
+    /* content: hang ngang / items: hanng doc / flex-dir..:col chinh theo hang doc*/
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+    .form-login div {
+        margin-top: 2rem;
+        padding-right: 10rem;
+    }
+
+.DangNhap {
+    background-color: darkcyan;
+    width: 100px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+  
+    /****/
+    .book-content{
+        margin-top:3rem;
+
+    }
+    .all_sr{
+        margin-left:1rem;
+    }
+
+.timkiem {
+    margin-left: 1rem;
+    color: black;
+    background-color: orange;
+    font-size: 17px;
+    border-radius: 8px;
+}
+.all {
+    text-align:right;
+    justify-content: flex-end;
+}
+.box_search {
+    min-height: 30rem;
+}
+.btn-tk {
+    border-radius: 5px;
+    text-decoration: none;
+    background-color:gray;
+    color: var(--light);
+    padding: 0.3rem;
+    border: none;
+}
+.logo{
+    width:100px;
+}
+.div_nd{
+    margin-bottom: 2.5rem;
+}
+
+
+.book{
+    display: inline-flex;
+}
+
+.col-book {
+    flex: 1;
+    border: 1px solid black;
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
+.col-doc {
+    padding-right: 2rem;
+    flex: 3;
+}

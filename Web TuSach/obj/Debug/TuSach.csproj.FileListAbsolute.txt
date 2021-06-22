@@ -1,0 +1,312 @@
+E:\tusach\TuSach\bin\TuSach.dll.config
+E:\tusach\TuSach\bin\TuSach.dll
+E:\tusach\TuSach\bin\TuSach.pdb
+E:\tusach\TuSach\bin\roslyn\csc.exe
+E:\tusach\TuSach\bin\roslyn\csc.exe.config
+E:\tusach\TuSach\bin\roslyn\csc.rsp
+E:\tusach\TuSach\bin\roslyn\csi.exe
+E:\tusach\TuSach\bin\roslyn\csi.exe.config
+E:\tusach\TuSach\bin\roslyn\csi.rsp
+E:\tusach\TuSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tusach\TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tusach\TuSach\bin\roslyn\Microsoft.Managed.Core.targets
+E:\tusach\TuSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tusach\TuSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\tusach\TuSach\bin\roslyn\System.AppContext.dll
+E:\tusach\TuSach\bin\roslyn\System.Collections.Immutable.dll
+E:\tusach\TuSach\bin\roslyn\System.Console.dll
+E:\tusach\TuSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\tusach\TuSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tusach\TuSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tusach\TuSach\bin\roslyn\System.Globalization.Calendars.dll
+E:\tusach\TuSach\bin\roslyn\System.IO.Compression.dll
+E:\tusach\TuSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\tusach\TuSach\bin\roslyn\System.IO.FileSystem.dll
+E:\tusach\TuSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tusach\TuSach\bin\roslyn\System.Net.Http.dll
+E:\tusach\TuSach\bin\roslyn\System.Net.Sockets.dll
+E:\tusach\TuSach\bin\roslyn\System.Reflection.Metadata.dll
+E:\tusach\TuSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tusach\TuSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tusach\TuSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tusach\TuSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tusach\TuSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tusach\TuSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tusach\TuSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\tusach\TuSach\bin\roslyn\System.ValueTuple.dll
+E:\tusach\TuSach\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tusach\TuSach\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tusach\TuSach\bin\roslyn\System.Xml.XPath.dll
+E:\tusach\TuSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tusach\TuSach\bin\roslyn\vbc.exe
+E:\tusach\TuSach\bin\roslyn\vbc.exe.config
+E:\tusach\TuSach\bin\roslyn\vbc.rsp
+E:\tusach\TuSach\bin\roslyn\VBCSCompiler.exe
+E:\tusach\TuSach\bin\roslyn\VBCSCompiler.exe.config
+E:\tusach\TuSach\bin\Antlr3.Runtime.dll
+E:\tusach\TuSach\bin\AspNet.ScriptManager.bootstrap.dll
+E:\tusach\TuSach\bin\AspNet.ScriptManager.jQuery.dll
+E:\tusach\TuSach\bin\EntityFramework.dll
+E:\tusach\TuSach\bin\EntityFramework.SqlServer.dll
+E:\tusach\TuSach\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\tusach\TuSach\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\tusach\TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\tusach\TuSach\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\tusach\TuSach\bin\Microsoft.ScriptManager.WebForms.dll
+E:\tusach\TuSach\bin\Microsoft.Web.Infrastructure.dll
+E:\tusach\TuSach\bin\Newtonsoft.Json.dll
+E:\tusach\TuSach\bin\System.Web.Optimization.dll
+E:\tusach\TuSach\bin\WebGrease.dll
+E:\tusach\TuSach\bin\EntityFramework.xml
+E:\tusach\TuSach\bin\EntityFramework.SqlServer.xml
+E:\tusach\TuSach\bin\System.Web.Optimization.xml
+E:\tusach\TuSach\bin\Newtonsoft.Json.xml
+E:\tusach\TuSach\bin\Antlr3.Runtime.pdb
+E:\tusach\TuSach\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\tusach\TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tusach\TuSach\obj\Debug\TuSach.csproj.CoreCompileInputs.cache
+E:\tusach\TuSach\obj\Debug\TuSach.csproj.CopyComplete
+E:\tusach\TuSach\obj\Debug\TuSach.dll
+E:\tusach\TuSach\obj\Debug\TuSach.pdb
+D:\tusachMaThiHuyen\TuSach\bin\TuSach.dll.config
+D:\tusachMaThiHuyen\TuSach\bin\TuSach.dll
+D:\tusachMaThiHuyen\TuSach\bin\TuSach.pdb
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\csc.exe
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\csc.exe.config
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\csc.rsp
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\csi.exe
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\csi.exe.config
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\csi.rsp
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.AppContext.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Collections.Immutable.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Console.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Globalization.Calendars.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.Compression.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.FileSystem.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Net.Http.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Net.Sockets.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Reflection.Metadata.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.ValueTuple.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.XPath.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\vbc.exe
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\vbc.exe.config
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\vbc.rsp
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\VBCSCompiler.exe
+D:\tusachMaThiHuyen\TuSach\bin\roslyn\VBCSCompiler.exe.config
+D:\tusachMaThiHuyen\TuSach\bin\Antlr3.Runtime.dll
+D:\tusachMaThiHuyen\TuSach\bin\AspNet.ScriptManager.bootstrap.dll
+D:\tusachMaThiHuyen\TuSach\bin\AspNet.ScriptManager.jQuery.dll
+D:\tusachMaThiHuyen\TuSach\bin\EntityFramework.dll
+D:\tusachMaThiHuyen\TuSach\bin\EntityFramework.SqlServer.dll
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.ScriptManager.WebForms.dll
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.Web.Infrastructure.dll
+D:\tusachMaThiHuyen\TuSach\bin\Newtonsoft.Json.dll
+D:\tusachMaThiHuyen\TuSach\bin\System.Web.Optimization.dll
+D:\tusachMaThiHuyen\TuSach\bin\WebGrease.dll
+D:\tusachMaThiHuyen\TuSach\bin\EntityFramework.xml
+D:\tusachMaThiHuyen\TuSach\bin\EntityFramework.SqlServer.xml
+D:\tusachMaThiHuyen\TuSach\bin\System.Web.Optimization.xml
+D:\tusachMaThiHuyen\TuSach\bin\Newtonsoft.Json.xml
+D:\tusachMaThiHuyen\TuSach\bin\Antlr3.Runtime.pdb
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\tusachMaThiHuyen\TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.csprojAssemblyReference.cache
+D:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.csproj.CoreCompileInputs.cache
+D:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.csproj.CopyComplete
+D:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.dll
+D:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.pdb
+E:\tusach\TuSach\obj\Debug\TuSach.csprojAssemblyReference.cache
+E:\tusachMaThiHuyen\TuSach\bin\TuSach.dll.config
+E:\tusachMaThiHuyen\TuSach\bin\TuSach.dll
+E:\tusachMaThiHuyen\TuSach\bin\TuSach.pdb
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\csc.exe
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\csc.exe.config
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\csc.rsp
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\csi.exe
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\csi.exe.config
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\csi.rsp
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.Managed.Core.targets
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.AppContext.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Collections.Immutable.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Console.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Globalization.Calendars.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.Compression.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.FileSystem.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Net.Http.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Net.Sockets.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Reflection.Metadata.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.ValueTuple.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.XPath.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\vbc.exe
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\vbc.exe.config
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\vbc.rsp
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\VBCSCompiler.exe
+E:\tusachMaThiHuyen\TuSach\bin\roslyn\VBCSCompiler.exe.config
+E:\tusachMaThiHuyen\TuSach\bin\Antlr3.Runtime.dll
+E:\tusachMaThiHuyen\TuSach\bin\AspNet.ScriptManager.bootstrap.dll
+E:\tusachMaThiHuyen\TuSach\bin\AspNet.ScriptManager.jQuery.dll
+E:\tusachMaThiHuyen\TuSach\bin\EntityFramework.dll
+E:\tusachMaThiHuyen\TuSach\bin\EntityFramework.SqlServer.dll
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.ScriptManager.WebForms.dll
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.Web.Infrastructure.dll
+E:\tusachMaThiHuyen\TuSach\bin\Newtonsoft.Json.dll
+E:\tusachMaThiHuyen\TuSach\bin\System.Web.Optimization.dll
+E:\tusachMaThiHuyen\TuSach\bin\WebGrease.dll
+E:\tusachMaThiHuyen\TuSach\bin\EntityFramework.xml
+E:\tusachMaThiHuyen\TuSach\bin\EntityFramework.SqlServer.xml
+E:\tusachMaThiHuyen\TuSach\bin\System.Web.Optimization.xml
+E:\tusachMaThiHuyen\TuSach\bin\Newtonsoft.Json.xml
+E:\tusachMaThiHuyen\TuSach\bin\Antlr3.Runtime.pdb
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\tusachMaThiHuyen\TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.csprojAssemblyReference.cache
+E:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.csproj.CoreCompileInputs.cache
+E:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.csproj.CopyComplete
+E:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.dll
+E:\tusachMaThiHuyen\TuSach\obj\Debug\TuSach.pdb
+E:\BTL TLW co ban TuSach\Web TuSach\bin\TuSach.dll.config
+E:\BTL TLW co ban TuSach\Web TuSach\bin\TuSach.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\TuSach.pdb
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\csc.exe
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\csc.exe.config
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\csc.rsp
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\csi.exe
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\csi.exe.config
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\csi.rsp
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.AppContext.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Collections.Immutable.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Console.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Globalization.Calendars.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.IO.Compression.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.IO.FileSystem.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Net.Http.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Net.Sockets.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Reflection.Metadata.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.ValueTuple.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Xml.XPath.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\vbc.exe
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\vbc.exe.config
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\vbc.rsp
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\VBCSCompiler.exe
+E:\BTL TLW co ban TuSach\Web TuSach\bin\roslyn\VBCSCompiler.exe.config
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Antlr3.Runtime.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\AspNet.ScriptManager.bootstrap.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\AspNet.ScriptManager.jQuery.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\EntityFramework.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\EntityFramework.SqlServer.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.Web.Infrastructure.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Newtonsoft.Json.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\System.Web.Optimization.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\WebGrease.dll
+E:\BTL TLW co ban TuSach\Web TuSach\bin\EntityFramework.xml
+E:\BTL TLW co ban TuSach\Web TuSach\bin\EntityFramework.SqlServer.xml
+E:\BTL TLW co ban TuSach\Web TuSach\bin\System.Web.Optimization.xml
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Newtonsoft.Json.xml
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Antlr3.Runtime.pdb
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\BTL TLW co ban TuSach\Web TuSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BTL TLW co ban TuSach\Web TuSach\obj\Debug\TuSach.csprojAssemblyReference.cache
+E:\BTL TLW co ban TuSach\Web TuSach\obj\Debug\TuSach.csproj.CoreCompileInputs.cache
+E:\BTL TLW co ban TuSach\Web TuSach\obj\Debug\TuSach.csproj.CopyComplete
+E:\BTL TLW co ban TuSach\Web TuSach\obj\Debug\TuSach.dll
+E:\BTL TLW co ban TuSach\Web TuSach\obj\Debug\TuSach.pdb

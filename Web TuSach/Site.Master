@@ -1,0 +1,104 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="TuSach.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %></title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+</head>
+
+<body >
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+         
+        </asp:ScriptManager>
+
+        <header>
+       
+     <div class=" container row right-x">
+            <div class="list-inline" style="margin-top: 14px; text-align: center">
+                <a class="btn" href="<%=LinkDN %>"><%=DangNhap %></a>
+                <a class="btn" href="<%=LinkDK %>"  
+                    <% if(DangKy=="Đăng Xuất") { %>
+                        onclick="DangXuat()"
+                    <% } %>
+                    >
+
+                    <%=DangKy %></a>
+
+            </div>
+        </div>
+            
+
+        <nav class=" narbar  ">
+            <div class="container row bettwen-x center-y">
+                <div>
+                   
+                    <a href="Default.aspx">  <img class="logo" src="/img/LOGO.png" /></a> 
+                </div>
+             <ul class="row center-y">
+                <li class="">
+                    <a  class="" href="Default">Trang chủ</a>
+                </li>
+                <li class="dropdown">
+                    <a class="" href="#">Thể loại</a>
+                    <ul class="dropdown-item">
+                        <% foreach (var y in theloai) { %>
+                        <li><a href="Category.aspx?id=<%=y.CategoryID %>"><%=y.CategoryName %> </a></li>
+        
+                   <% } %>
+                    </ul>
+                </li>
+
+                  <% if(DangKy=="Đăng Xuất") { %>
+                
+                        <li class="">
+                            <a class="" href="UploadBook">Đăng Truyện</a>
+                        </li>    
+                    
+                    
+
+                 <%} %>
+
+
+                
+            </ul
+        </div>
+        </nav>    </header>
+        <div class="container body-content">
+           
+
+
+            
+
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+           
+               </asp:ContentPlaceHolder>
+        
+        
+        </div>
+    </form>
+    
+    <script src="Scripts/main.js"> 
+       
+    </script>
+  <footer class="footer">
+        <div class="contact">
+            <h2>LIÊN HỆ ADMIN</h2>
+            <p>tusach@gmail.com</p>
+            
+        </div>
+      
+    </footer>
+</body>
+</html>
